@@ -1,0 +1,14 @@
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\bin\Debug\net8.0\RaczdanielOrszagok.exe
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\bin\Debug\net8.0\RaczdanielOrszagok.deps.json
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\bin\Debug\net8.0\RaczdanielOrszagok.runtimeconfig.json
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\bin\Debug\net8.0\RaczdanielOrszagok.dll
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\bin\Debug\net8.0\RaczdanielOrszagok.pdb
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.AssemblyInfoInputs.cache
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.AssemblyInfo.cs
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.csproj.CoreCompileInputs.cache
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.dll
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\refint\RaczdanielOrszagok.dll
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.pdb
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\RaczdanielOrszagok.genruntimeconfig.cache
+C:\Users\Ny19RáczD\source\repos\RaczdanielOrszagok\RaczdanielOrszagok\obj\Debug\net8.0\ref\RaczdanielOrszagok.dll
